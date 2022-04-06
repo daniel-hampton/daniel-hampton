@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Dan
+
+I'm a full-stack 📚 developer with over five years of experience building applications and websites. I currently do most of my work with TypeScript, React, Node.js and Firebase. In addition, I've worked with other tools, including Vue.js, Python, Django, Flutter, and Dart.
+
+I'm the owner of [Rugged Software LLC](https://ruggedsoftware.dev), a software development company that can help you get your business website up and running quickly and easily. We also do custom development for web and mobile applications, including the backend servers. Get in touch through the website or my email below to ask how we can help you.
+
+- 👨‍🏫 I love helping new developers. Feel free to reach out to me with questions.
+- 📫 How to reach me: Email me at dhampton@ruggedsoftware.dev
+- ⚡ Fun fact: I have a degree in chemical engineering 🧪
 
 <!--
 **daniel-hampton/daniel-hampton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
